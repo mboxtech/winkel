@@ -195,6 +195,7 @@ Arduino Forum
 Instructables
 ---
 [Intro](http://www.instructables.com/id/The-Winkel-Board/)
+
 [Build Example-1](http://www.instructables.com/id/Wireless-Senor-Network-Using-the-Winkel-Board/)
 
 Hackaday
@@ -204,6 +205,7 @@ Hackaday
 Reddit
 ---
 [Thread-1](https://redd.it/58fwdf)
+
 [Thread-2](https://redd.it/5hioau)
 
 FAQs
