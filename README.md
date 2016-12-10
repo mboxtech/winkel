@@ -119,10 +119,6 @@ Winkel Board has 3 <a style="color:green;">green</a> LED indicators for HC05, NR
 
 You can use smart opt feature on the Winkel Board to power ON only required on-board components and not all. There are conducting jumpers on the board, that will allow you to pass power to ESP12E, HC05 and NRF24l01 individually.
 
-### Consumption
-
-Coming soon...
-
 Hardware
 ---
 
@@ -134,12 +130,14 @@ Winkel Board is licensed under the MIT License. You can find text of the license
 ### Major components
 The Knit board consists of the following major hardware components -
 
-| Function | Company | Part No| Package|Datasheet
-|:-:|:-:|:-:|:-:|:-:|
-| WiFi | Azurewave | AW-CU300 | 64 pin LGA|-|
-| Flash | Winbond | W25Q32 | SOIC-8| <a href="http://www.elinux.org/images/f/f5/Winbond-w25q32.pdf" target="_blank">Link</a>
-| USB to UART | Silicon Labs | CP2102| 28 pin QFN | <a href="https://www.silabs.com/Support%20Documents/TechnicalDocs/CP2102-9.pdf" target="_blank">Link</a>
-| Regulator | TI | LM1117| SOT 223|<a href="http://www.ti.com/lit/ds/symlink/lm1117.pdf" target="_blank">Link</a>
+| Function | Part No | Datasheet
+|:-:|:-:|:-:|
+| Central Core | ATmega128a-au | <a href="http://www.atmel.com/devices/ATMEGA128.aspx?tab=parameters" target="_blank">Link</a>
+| WiFi | ESP8266-12E |<a href="http://www.kloppenborg.net/images/blog/esp8266/esp8266-esp12e-specs.pdf" target="_blank">Link</a>|
+| Bluetooth | HC-05 | <a href="http://cdn.makezine.com/uploads/2014/03/hc_hc-05-user-instructions-bluetooth.pdf" target="_blank">Link</a>
+| Radio Transceiver | NRF24l01 | <a href="https://www.sparkfun.com/datasheets/Components/SMD/nRF24L01Pluss_Preliminary_Product_Specification_v1_0.pdf" target="_blank">Link</a>
+| Real Time Clock | DS3231 | <a href="https://datasheets.maximintegrated.com/en/ds/DS3231.pdf" target="_blank">Link</a>
+| Regulator | LM1117 |<a href="http://www.ti.com/lit/ds/symlink/lm1117.pdf" target="_blank">Link</a>
 
 ### Interfaces
 We have the following buttons and LEDs onboard the Knit -
