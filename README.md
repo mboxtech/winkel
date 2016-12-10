@@ -29,7 +29,7 @@ Winkel Board
 
 </table> -->
 
-<iframe src="https://player.vimeo.com/video/193928397" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/193928397" width="720" height="404" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Technology
 ---
@@ -76,7 +76,7 @@ Documentation
 Pin Map
 ---
 
-<img style="width:720px;height:404px;" src="http://i.imgur.com/ukiZS0f.jpg" title="source: imgur.com" />
+<a href="http://i.imgur.com/ukiZS0f.jpg" target="_blank"><img style="width:720px;height:404px;" src="http://i.imgur.com/ukiZS0f.jpg" title="source: imgur.com" /></a>
 
 Comparison
 ---
@@ -125,11 +125,9 @@ If you want to save some more power, you can get rid of the power LED resistor. 
 
 ### Input sources
 
-You can power up your Knit board using one of the following -
+You can power up Winkel Board using
 
 - 5V through USB
-- 5V through pins
-- 3.3V through pins (advanced)
 
 ### Consumption
 
