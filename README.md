@@ -190,23 +190,21 @@ Resources
 
 Arduino Forum
 ---
-[Forum Post](http://forum.arduino.cc/index.php?topic=429389.0)
+* [Forum Post](http://forum.arduino.cc/index.php?topic=429389.0)
 
 Instructables
 ---
-[Intro](http://www.instructables.com/id/The-Winkel-Board/)
-
-[Build Example-1](http://www.instructables.com/id/Wireless-Senor-Network-Using-the-Winkel-Board/)
+* [Intro](http://www.instructables.com/id/The-Winkel-Board/)
+* [Build Example-1](http://www.instructables.com/id/Wireless-Senor-Network-Using-the-Winkel-Board/)
 
 Hackaday
 ---
-[Hackaday Page](https://hackaday.io/project/17055-the-winkel-board)
+* [Hackaday Page](https://hackaday.io/project/17055-the-winkel-board)
 
 Reddit
 ---
-[Thread-1](https://redd.it/58fwdf)
-
-[Thread-2](https://redd.it/5hioau)
+* [Thread-1](https://redd.it/58fwdf)
+* [Thread-2](https://redd.it/5hioau)
 
 FAQs
 ----
@@ -215,5 +213,5 @@ Coming Soon
 
 Get in touch
 ---
-[Email](info@mintbox.in)
-[Facebook](https://facebook.com/winkelboards)
+* [Email](info@mintbox.in)
+* [Facebook](https://facebook.com/winkelboards)
