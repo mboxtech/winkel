@@ -208,11 +208,11 @@ Reddit
 * [Thread-2](https://redd.it/5hioau)
 
 FAQs
-----
+===
 Coming Soon
 
 
 Get in touch
----
+===
 * [Email](info@mintbox.in)
 * [Facebook](https://facebook.com/winkelboards)
