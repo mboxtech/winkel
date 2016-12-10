@@ -289,10 +289,3 @@ Projects we <3 & use
 
 Get in touch
 ---
-
-- [anuj@makerville.io](mailto:anuj@makerville.io)
-- [Twitter](http://twitter.com/get_knit)
-- [YouTube](https://www.youtube.com/channel/UCN_UJzAo9A7C2BYH5_QHirQ)
-- [Facebook](https://www.facebook.com/GetKnit/)
-- [Instagram](http://instagram.com/get_knit)
-- [Tumblr](http://get-knit.tumblr.com/)
