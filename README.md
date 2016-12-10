@@ -187,6 +187,7 @@ Videos
 
 Resources
 ====
+Here are some of the resources for The Winkel Board
 
 Arduino Forum
 ---
