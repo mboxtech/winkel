@@ -73,49 +73,10 @@ Features
 Documentation
 ====
 
-<!-- Getting started
----------------
-
-### Flashing the device
-Get the SDK on your development machine
-
- using git
-
-```
-git clone https://github.com/marvell-iot/aws_starter_sdk
-```
- or https
-
-```
-wget https://github.com/marvell-iot/aws_starter_sdk.git
-```
-Download the latest blob from the [releases](https://github.com/marvell-iot/aws_starter_sdk/releases) section.
-
-[WIP]
-
-### Compiling
-
-Install the required tools as per instructions found [here](https://github.com/marvell-iot/aws_starter_sdk/wiki/Development-Host-Setup)
-
-Next up, download the SDK on your development machine.
-
-From the root directory of the SDK, run
-```
-make APP=sample_apps/aws_starter_demo BOARD_FILE=sdk/src/boards/knit-v1.c
-```
-[WIP]
-
-
- -->
-
-
 Pin Map
 ---
 
-- Knit has 2 16 pin headers, which are breadboard friendly.It also has a 4 pin header for easy SWD programming.
-- The header file where all the pin functions are defined is [mw300_pinmux.h](https://github.com/marvell-iot/aws_starter_sdk/blob/master/sdk/src/incl/sdk/drivers/mw300/mw300_pinmux.h)
-
-[Imgur](http://i.imgur.com/ukiZS0f.jpg)
+<a href="http://imgur.com/ukiZS0f"><img src="http://i.imgur.com/ukiZS0f.jpg" title="source: imgur.com" /></a>
 
 Comparison
 ---
@@ -139,8 +100,6 @@ Comparison
 |**Onboard Real Time Clock** |Yes ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
 |**OTA Programming** |Yes ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
 |**Smart Opt**|Yes ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
-
-<img src="https://makerville.io/knit/img/bb.jpg" width="470"></img>
 
 
 Power
