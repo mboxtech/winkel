@@ -124,7 +124,7 @@ Hardware
 
 Winkel Board is open source hardware. There are a few definitions of OSHW, but what it means to us is that everything that one would need to make Knit is made available to everyone under a permissive license.
 
-Winkel Board is licensed under the MIT License. You can find text of the license [here](https://github.com/Makerville/knit/blob/master/LICENSE). All the files can be found on our [GitHub](http://github.com/makerville/knit/blob/master/hardware).
+Winkel Board is licensed under the MIT License. You can find text of the license [here](https://github.com/mboxtech/winkel/blob/master/LICENSE). All the files can be found on our [GitHub](http://github.com/mboxtech/).
 
 
 ### Major components
