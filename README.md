@@ -76,7 +76,7 @@ Documentation
 Pin Map
 ---
 
-<a href="http://imgur.com/ukiZS0f"><img style="width:720px;height:404px;" src="http://i.imgur.com/ukiZS0f.jpg" title="source: imgur.com" /></a>
+<img style="width:720px;height:404px;" src="http://i.imgur.com/ukiZS0f.jpg" title="source: imgur.com" />
 
 Comparison
 ---
