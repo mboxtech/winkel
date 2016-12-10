@@ -164,105 +164,54 @@ This installation method requires Arduino IDE version 1.6.4 or greater.
 Click on the "Download ZIP" button in the upper right corner. Exctract the ZIP file, and move the extracted folder to the location "**~/Documents/Arduino/hardware**". Create the "hardware" folder if it doesn't exist.
 Open Arduino IDE, and a new category in the boards menu called "WinkelCore" will show up.
 
+OTA Programming
+===
+
+### ATmega128 OTA programming
+Coming Soon
+
+### ESP12E OTA Programming
+
+<a href="https://github.com/mboxtech/Winkel-Board-Examples/tree/master/ESP12-Winkel-ota-git-example">Instructions</a>
 
 Videos
 ===
 
-### Create AWS IoT thing and certificates
-In this screen capture, checkout how to create a new IoT thing by signing in to your AWS account.
+### Wireless Mouse Control Over Radio Network. 
 
-&nbsp; <iframe width="470" height="315" src="https://www.youtube.com/embed/hOc-iZcmv9E?list=PLIYfgNqDE8r2XNkXMqbaiF0iBbli7cNYz" frameborder="1" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/194135609" width="720" height="404" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-### Provision and push events to AWS IoT
-In this video see how to connect to AWS using the keys that we generated in the previous video and then send a push button event to the AWS IoT device shadow.
+### Wireless Sensor Network Using the Winkel Board 
 
-&nbsp; <iframe width="470" height="315" src="https://www.youtube.com/embed/CFwY_jNb59s?list=PLIYfgNqDE8r2XNkXMqbaiF0iBbli7cNYz" frameborder="1" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/194135878" width="720" height="404" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Products w/ 88MW300
-===
-
-The Knit is based on the Marvell 88MW300 WiFi microcontroller. This is an industrial grade SoC which is being used to make all sorts of consumer applications, even battery operated ones.
-
-### Teardowns
-
-Some of the commercially available products that have been made using the 88MW300 WiFi microcontroller-
-<table style="width:100%">
-  <tr>
-    <td>Hello Barbie</td>
-    <td><a href="http://www.somersetrecon.com/blog/2015/11/20/hello-barbie-security-part-1-teardown" target="_blank">Teardown from Somerset Recon</a></td>
-    <td>This one uses the same module as Knit, AW CU300</td>
-    <td>See it in action <a href="https://www.youtube.com/watch?v=RJMvmVCwoNM" target="_blank">here</a></td>
-  </tr>
-  <tr>
-    <td>Xiaomi Yeelight</td>
-    <td><a href="http://www.miui.com/thread-4260673-1-1.html" target="_blank">Teardown from miui.com (in Chinese)</a></td>
-    <td>This one uses a Mi module with 2MB of onboard flash</td>
-    <td>See it in action <a href="https://www.youtube.com/watch?v=x0RCSBAH6gE" target="_blank">here</a></td>
-  </tr>
-</table>
-
-### Software frameworks
-
-The Knit is capable of running the following frameworks. Please note that one needs to contact Marvell/respective framework provider to get access to the source code and documentation.
-
-- Google Weave
-  - [88MW300 is the first MCU platform to support Google Weave.](http://www.marvell.com/company/news/pressDetail.do?releaseID=7659)
-- Apple's HomeKit.
-  - [HomeKit SDK](http://www.marvell.com/microcontrollers/wi-fi-microcontroller-platform/home-kit/)
-
-Misc
+Resources
 ====
 
-Mailing List
+Arduino Forum
 ---
+[Forum Post](http://forum.arduino.cc/index.php?topic=429389.0)
 
-  <form action="//makerville.us12.list-manage.com/subscribe/post?u=064c1b6c971f765e25f2d4c66&amp;id=8d99ecc3e3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-      <div class="mc-field-group">
+Instructables
+---
+[Intro](http://www.instructables.com/id/The-Winkel-Board/)
+[Build Example-1](http://www.instructables.com/id/Wireless-Senor-Network-Using-the-Winkel-Board/)
 
-<p> &nbsp; &nbsp; Email:    </p>
-   &nbsp; &nbsp; <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"><br/>
-      </div>
-      <div id="mce-responses" class="clear">
-  <div class="response" id="mce-error-response" style="display:none"></div>
-  <div class="response" id="mce-success-response" style="display:none"></div>
-      </div>   
-      <div class = "one-half column" style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_064c1b6c971f765e25f2d4c66_8d99ecc3e3" tabindex="-1" value=""></div>
-      <div class="clear"> <br/> &nbsp;<input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-  </form>
+Hackaday
+---
+[Hackaday Page](https://hackaday.io/project/17055-the-winkel-board)
+
+Reddit
+---
+[Thread-1](https://redd.it/58fwdf)
+[Thread-2](https://redd.it/5hioau)
 
 FAQs
 ----
-- Is Knit OSHW (Open Source Hardware) ?
-  - Yes, we have released the schematic and PCB files under the [MIT](https://github.com/Makerville/knit/blob/master/LICENSE) license. You can find the files [here](https://github.com/Makerville/knit/tree/master/hardware).
-- When will it be available ?
-  - Knit is available now . [Buy Now >][order]
-- What will be the price?
-  - For early access developers the price will be 999₹ / $14.99
-- Where can I get more support ?
-  - For SDK related issues, you can join the Gitter [chat](https://gitter.im/marvell-iot/aws_starter_sdk) or raise an [issue](https://github.com/marvell-iot/aws_starter_sdk/issues)
+Coming Soon
 
-
-Acknowledgements
-------------
-
-- PCB design by [Rohit Gupta](http://rohitg.in/about/)
-- Logo by [Cassie McKown](https://thenounproject.com/mckowncr/) under [CC by 3.0 US](http://creativecommons.org/licenses/by/3.0/us/)
-
-Projects we <3 & use
----
-
-- ARM GCC toolchain
-- OpenOCD
-- KiCad EDA
-- Eclipse C/C++ IDE
-- Flatdoc site generator by [Rico Sta. Cruz](http://ricostacruz.com/)
-
-
-
-[project]: https://github.com/makerville/knit
-[order]: https://makerville.io/knit/early-access
 
 Get in touch
 ---
+[Email](info@mintbox.in)
+[Facebook](https://facebook.com/winkelboards)
