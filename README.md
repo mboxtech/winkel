@@ -128,7 +128,7 @@ Winkel Board is licensed under the MIT License. You can find text of the license
 
 
 ### Major components
-The Knit board consists of the following major hardware components -
+The Winkel board consists of the following major hardware components -
 
 | Function | Part No | Datasheet
 |:-:|:-:|:-:|
@@ -139,39 +139,30 @@ The Knit board consists of the following major hardware components -
 | Real Time Clock | DS3231 | <a href="https://datasheets.maximintegrated.com/en/ds/DS3231.pdf" target="_blank">Link</a>
 | Regulator | LM1117 |<a href="http://www.ti.com/lit/ds/symlink/lm1117.pdf" target="_blank">Link</a>
 
-### Interfaces
-We have the following buttons and LEDs onboard the Knit -
+Arduino Support
+===
+An Arduino Core for the Winkel Boards. A custom bootloader for ATmega128 was needed to provide support for widely used Arduino IDE. A special thanks to MCUdude who wrote an [Arduino Core for ATmega128 and ATmega64](https://github.com/MCUdude/MegaCore) all running a modified version of Optiboot known as **MegaCore.**
 
-|Interface | Function | Connected to|Silkscreen Identifier|
-|:-:|:-:|:-:|:-:|
-|Button | Reset | RESET_N| RESET|
-|Button | Boot/User | GPIO16/27| BOOT|
-|LED | User | GPIO40|Blink!|
-|LED | Power | 3V3 rail|pwr|
+### Boards Manager Installation
+This installation method requires Arduino IDE version 1.6.4 or greater.
 
-### Pin Headers
-We have the following pin headers onboard the Knit -
+* Open the Arduino IDE.
+* Open the **File > Preferences** menu item.
+* Enter the following URL in **Additional Boards Manager URLs**: 
 
-| Pin count | Function |Silkscreen Identifier|
-|:-:|:-:|:-:|
-|16| GPIO breakout | \m/|
-|16| GPIO breakout | knit|
-|4 | Advanced debugging using [Serial Wire Debug](http://www.arm.com/products/system-ip/debug-trace/coresight-soc-components/serial-wire-debug.php)| SWD|
+`https://raw.githubusercontent.com/mboxtech/WinkelCore/master/package_WinkelCore_index.json`
 
-### Certifications
-The Azurewave module that is being used is certified as follows -
+* Open the **Tools > Board > Boards Manager...** menu item.
+* Wait for the platform indexes to finish downloading.
+* Scroll down until you see the **WinkelCore** entry and click on it.
+  * **Note**: If you are using Arduino IDE 1.6.6 then you may need to close **Boards Manager** and then reopen it before the **WinkelCore** entry will appear.
+* Click **Install**.
+* After installation is complete close the **Boards Manager** window.
+* Go to **Tools > Board >** and you should see **Winkel Board**
 
-- [FCC ID TLZ-CU300](https://fccid.io/TLZ-CU300)
-- CE
-- IC ID 6100A-CU300
-- NCC ID CCAI15LP1350T2
-
-<img src="https://makerville.io/knit/img/knit-module-bottom.jpg" width="470" ></img>
-
-
-### Antenna
-
-The Azurewave module, and hence the Knit board, has a PCB antenna as the internal antenna, and it also has a uFl connector if you would like to get better range with an external antenna.
+### Manual Installation
+Click on the "Download ZIP" button in the upper right corner. Exctract the ZIP file, and move the extracted folder to the location "**~/Documents/Arduino/hardware**". Create the "hardware" folder if it doesn't exist.
+Open Arduino IDE, and a new category in the boards menu called "WinkelCore" will show up.
 
 
 Videos
