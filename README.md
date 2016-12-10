@@ -94,12 +94,12 @@ Comparison
 |**Flash** |128KB|256KB|256KB|196KB|32KB|32KB|256KB|
 |**USB** |Micro|Regular|Regular|Regular|Micro|Regular|2 Micro|
 |**UART** |2|1|4|-|1|1|2|
-|**Onboard WiFi** |Yes ~success|Yes WINC1500 ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
-|**Onboard Bluetooth** |Yes ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
-|**Onboard Radio Transceiver** |Yes ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
-|**Onboard Real Time Clock** |Yes ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
-|**OTA Programming** |Yes ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
-|**Smart Opt**|Yes ~success|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|No ~danger|
+|**Onboard WiFi** |Yes |Yes WINC1500 |No |No |No |No |No |
+|**Onboard Bluetooth** |Yes |No |No |No |No |No |No |
+|**Onboard Radio Transceiver** |Yes |No |No |No |No |No |No |
+|**Onboard Real Time Clock** |Yes |No |No |No |No |No |No |
+|**OTA Programming** |Yes |No |No |No |No |No |No |
+|**Smart Opt**|Yes |No |No |No |No |No |No |
 
 
 Power
