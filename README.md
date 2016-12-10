@@ -76,7 +76,7 @@ Documentation
 Pin Map
 ---
 
-<a href="http://i.imgur.com/ukiZS0f.jpg" target="_blank"><img style="width:720px;height:404px;" src="http://i.imgur.com/ukiZS0f.jpg" title="source: imgur.com" /></a>
+<a href="//i.imgur.com/ukiZS0f.jpg" target="_blank"><img style="width:720px;height:404px;" src="//i.imgur.com/ukiZS0f.jpg" title="source: imgur.com" /></a>
 
 Comparison
 ---
@@ -191,21 +191,21 @@ Here are some of the resources for The Winkel Board
 
 Arduino Forum
 ---
-* [Forum Post](http://forum.arduino.cc/index.php?topic=429389.0)
+* [Forum Post](//forum.arduino.cc/index.php?topic=429389.0)
 
 Instructables
 ---
-* [Intro](http://www.instructables.com/id/The-Winkel-Board/)
-* [Build Example-1](http://www.instructables.com/id/Wireless-Senor-Network-Using-the-Winkel-Board/)
+* [Intro](//www.instructables.com/id/The-Winkel-Board/)
+* [Build Example-1](//www.instructables.com/id/Wireless-Senor-Network-Using-the-Winkel-Board/)
 
 Hackaday
 ---
-* [Hackaday Page](https://hackaday.io/project/17055-the-winkel-board)
+* [Hackaday Page](//hackaday.io/project/17055-the-winkel-board)
 
 Reddit
 ---
-* [Thread-1](https://redd.it/58fwdf)
-* [Thread-2](https://redd.it/5hioau)
+* [Thread-1](//redd.it/58fwdf)
+* [Thread-2](//redd.it/5hioau)
 
 FAQs
 ===
