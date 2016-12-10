@@ -105,29 +105,19 @@ Comparison
 Power
 ---
 
-### Hardware
-
-The Knit board has both 5V and 3.3V power rails. Both, 5V and 3.3V, are made available on the dual pin headers, but **please note that the controller pins are all 3.3V logic.** Supplying any of the pins more than 3.3V will likely result in a bricked board.
-
-The 5V is used by
-
-- LM1117 linear regulator IC
-- CP2102 USB to serial converter
-
-The 3.3V is used by
-
-- AW-CU300 WiFi module
-- W25Q32 Winbond Flash
-
-The above setup allows one to power the board using an external 5V when developing an application, and switch to a 3.3V source, like a lithium ion battery, when deploying the application. The voltage regulator and the USB to serial converter is not necessary for normal operation of the WiFi module and flash memory, as long as you have a stable 3.3V power source.  
-
-If you want to save some more power, you can get rid of the power LED resistor. That'll knock off a few mA. Of course, the nice red LED won't show your powered on status once you do this. **Please note that removing a resistor has the risk of damaging nearby tracks/connections if you are not careful. Please avoid doing this if you are not sure.**
-
 ### Input sources
 
 You can power up Winkel Board using
 
 - 5V through USB
+
+### LED Indication
+
+Winkel Board has 3 <a style="color:green;">green</a> LED indicators for HC05, NRF24l01 and ATmega128 that light up when these components are powered ON.
+
+### Smart Opt
+
+You can use smart opt feature on the Winkel Board to power ON only required on-board components and not all. There are conducting jumpers on the board, that will allow you to pass power to ESP12E, HC05 and NRF24l01 individually.
 
 ### Consumption
 
@@ -136,9 +126,9 @@ Coming soon...
 Hardware
 ---
 
-Knit is open source hardware. There are a few definitions of OSHW, but what it means to us is that everything that one would need to make Knit is made available to everyone under a permissive license.
+Winkel Board is open source hardware. There are a few definitions of OSHW, but what it means to us is that everything that one would need to make Knit is made available to everyone under a permissive license.
 
-Knit is licensed under the MIT License. You can find text of the license [here](https://github.com/Makerville/knit/blob/master/LICENSE). All the files can be found on our [GitHub](http://github.com/makerville/knit/blob/master/hardware).
+Winkel Board is licensed under the MIT License. You can find text of the license [here](https://github.com/Makerville/knit/blob/master/LICENSE). All the files can be found on our [GitHub](http://github.com/makerville/knit/blob/master/hardware).
 
 
 ### Major components
