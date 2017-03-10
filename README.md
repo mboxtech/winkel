@@ -76,7 +76,7 @@ Documentation
 Pin Map
 ---
 
-<a href="https://i.imgur.com/ukiZS0f.jpg" target="_blank"><img style="width:720px;height:404px;" src="https://i.imgur.com/ukiZS0f.jpg" title="source: imgur.com" /></a>
+<a href="https://mintbox.in/images/winkel-pin.png" target="_blank"><img style="width:720px;height:404px;" src="https://mintbox.in/images/winkel-pin.png" title="source: imgur.com" /></a>
 
 Comparison
 ---
