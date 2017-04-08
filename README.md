@@ -164,6 +164,7 @@ This installation method requires Arduino IDE version 1.6.4 or greater.
 Click on the "Download ZIP" button in the upper right corner. Exctract the ZIP file, and move the extracted folder to the location "**~/Documents/Arduino/hardware**". Create the "hardware" folder if it doesn't exist.
 Open Arduino IDE, and a new category in the boards menu called "WinkelCore" will show up.
 
+
 Wired Programming
 ===
 Please ensure that the BT_EN Jumper for HC-05 Bluetooth has been removed before perfroming wired programming.
