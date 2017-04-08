@@ -166,11 +166,18 @@ Open Arduino IDE, and a new category in the boards menu called "WinkelCore" will
 
 Wired Programming
 ===
+Please ensure that the BT_EN Jumper for HC-05 Bluetooth has been removed before perfroming wired programming.
 
 ### ATmega128 Wired CP2102
 
 
 ### ATmega128 Wired FTDI
+
+
+### ESP8266-12E Wired CP2102
+
+
+### Install Bootloader on ATmega128
 
 
 OTA Programming
