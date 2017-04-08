@@ -169,7 +169,7 @@ Wired Programming
 **Please ensure that the BT_EN Jumper for HC-05 Bluetooth has been removed before perfroming wired programming.**
 
 ### ATmega128 Wired CP2102
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/32drj9braiI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### ATmega128 Wired FTDI
 
