@@ -202,7 +202,7 @@ Videos
 <iframe src="https://player.vimeo.com/video/194135878" width="720" height="404" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Resources
-====
+===
 Here are some of the resources for The Winkel Board
 
 Arduino Forum
