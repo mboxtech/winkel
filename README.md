@@ -169,13 +169,13 @@ Wired Programming
 **Please ensure that the BT_EN Jumper for HC-05 Bluetooth has been removed before perfroming wired programming.**
 
 ### ATmega128 Wired CP2102
-<iframe width="640" height="360" src="https://www.youtube.com/embed/32drj9braiI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/32drj9braiI?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ### ATmega128 Wired FTDI
-<iframe src="https://player.vimeo.com/video/212379739" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/212379739" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### ESP8266-12E Wired CP2102
-<iframe width="640" height="360" src="https://www.youtube.com/embed/I-RF9QOiWoY?rel=0?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-RF9QOiWoY?rel=0?ecver=1" frameborder="0" allowfullscreen></iframe>
 
 ### Install Bootloader on ATmega128
 
