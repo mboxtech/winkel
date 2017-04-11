@@ -188,7 +188,7 @@ OTA Programming
 
 ### ESP12E OTA Programming
 
-**<a href="https://github.com/mboxtech/Winkel-Board-Examples/tree/master/ESP12-Winkel-ota-git-example">Please follow the Instructions here first.</a>**
+**<a href="https://github.com/mboxtech/Winkel-Board-Examples/tree/master/ESP12-Winkel-ota-git-example">Please follow the Instructions at this link to get started with ESP8266 OTA Programming on the winkel board.</a>**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0psGvgfdO-k?rel=0?ecver=1" frameborder="0" allowfullscreen></iframe>
 
