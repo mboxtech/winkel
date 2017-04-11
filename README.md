@@ -195,6 +195,8 @@ OTA Programming
 MPU6050
 ===
 
+### Connections
+
 Below are some references for Gyro Mount Arduino code and Libraries to get you started.
 
 a. http://playground.arduino.cc/Main/MPU-6050
