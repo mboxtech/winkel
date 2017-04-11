@@ -192,6 +192,16 @@ OTA Programming
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0psGvgfdO-k?rel=0?ecver=1" frameborder="0" allowfullscreen></iframe>
 
+MPU6050
+===
+
+Below are some references for Gyro Mount Arduino code and Libraries to get you started.
+
+a. http://playground.arduino.cc/Main/MPU-6050
+b. For serious use of the MPU-6050, Jeff Rowberg has done an excellent job. See his I2C lib: http://www.i2cdevlib.com/devices/mpu6050 Or the latest code on GitHub: https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050
+
+<a href="https://mintbox.in/images/Mpu6050-Mount.png" target="_blank"><img style="width:720px;height:404px;" src="https://mintbox.in/images/Mpu6050-Mount.png" title="source: mintbox.in" /></a>
+
 Videos
 ===
 
